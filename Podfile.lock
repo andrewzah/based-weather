@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.5.1)
+  - NightNight (0.4.5)
+  - Realm (2.10.2):
+    - Realm/Headers (= 2.10.2)
+  - Realm/Headers (2.10.2)
+  - RealmSwift (2.10.2):
+    - Realm (= 2.10.2)
+  - SideMenu (3.0.2)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - NightNight
+  - RealmSwift
+  - SideMenu
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  NightNight: f6efd4faf72320f5b035f67ae158b80e96a39f37
+  Realm: 0ef72b837fb67e9f4b098bac771ddd72c7fdbb69
+  RealmSwift: 07a9ae0505091eda6b2ee7c190c3786d6e90a7b0
+  SideMenu: 8fe957e0f5dcf1a1175c8ba5d47978d4eb2a89da
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: a8eedd3a5fa4a3893de2b3486cd394684ec4b0d4
+
+COCOAPODS: 1.1.1
